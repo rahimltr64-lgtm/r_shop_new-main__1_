@@ -1,0 +1,526 @@
+{
+  "products": {
+    "1001": {
+      "id": 1001,
+      "brand": "سامسونج",
+      "category": "phones",
+      "name": "Samsung Galaxy A55 5G",
+      "price": 78000,
+      "oldPrice": 86000,
+      "cost": 64000,
+      "installment": 6500,
+      "stock": 14,
+      "rating": 4.6,
+      "reviews": 64,
+      "colors": [
+        "أسود",
+        "أزرق"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "optionLabel": "سعة التخزين",
+      "specs": {
+        "الشاشة": "6.6 بوصة AMOLED",
+        "البطارية": "5000 mAh",
+        "الرام": "8GB"
+      },
+      "description": "هاتف بأداء ممتاز وكاميرا واضحة وبطارية تدوم طويلاً.",
+      "images": [
+        "https://placehold.co/600x600/1e3a8a/ffffff?text=Galaxy+A55"
+      ],
+      "isNew": true,
+      "isHot": true
+    },
+    "1002": {
+      "id": 1002,
+      "brand": "شاومي",
+      "category": "phones",
+      "name": "Redmi Note 13 Pro",
+      "price": 52000,
+      "oldPrice": 58000,
+      "cost": 43000,
+      "installment": 0,
+      "stock": 22,
+      "rating": 4.5,
+      "reviews": 112,
+      "colors": [
+        "أسود",
+        "أخضر"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "optionLabel": "سعة التخزين",
+      "specs": {
+        "الشاشة": "6.67 بوصة AMOLED",
+        "الكاميرا": "200MP",
+        "الشحن": "67W"
+      },
+      "description": "أفضل قيمة مقابل السعر في فئته.",
+      "images": [
+        "https://placehold.co/600x600/0f766e/ffffff?text=Redmi+Note+13"
+      ],
+      "isNew": false,
+      "isHot": true
+    },
+    "2001": {
+      "id": 2001,
+      "brand": "Anker",
+      "category": "electronics",
+      "name": "سماعات بلوتوث لاسلكية",
+      "price": 6500,
+      "oldPrice": 8200,
+      "cost": 4300,
+      "installment": 0,
+      "stock": 40,
+      "rating": 4.4,
+      "reviews": 87,
+      "colors": [
+        "أسود",
+        "أبيض"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "البلوتوث": "5.3",
+        "مدة التشغيل": "30 ساعة",
+        "مقاوم للماء": "IPX5"
+      },
+      "description": "صوت نقي وعزل جيد للضوضاء مع علبة شحن.",
+      "images": [
+        "https://placehold.co/600x600/4338ca/ffffff?text=Wireless+Earbuds"
+      ],
+      "isNew": true,
+      "isHot": false
+    },
+    "2002": {
+      "id": 2002,
+      "brand": "Xiaomi",
+      "category": "electronics",
+      "name": "ساعة ذكية رياضية",
+      "price": 9800,
+      "oldPrice": 12500,
+      "cost": 7000,
+      "installment": 0,
+      "stock": 18,
+      "rating": 4.3,
+      "reviews": 56,
+      "colors": [
+        "أسود",
+        "وردي"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "الشاشة": "1.69 بوصة",
+        "البطارية": "14 يوم",
+        "التتبع": "نبض وخطوات ونوم"
+      },
+      "description": "تتبع نشاطك اليومي واستقبل الإشعارات بسهولة.",
+      "images": [
+        "https://placehold.co/600x600/0f172a/ffffff?text=Smart+Watch"
+      ],
+      "isNew": false,
+      "isHot": true
+    },
+    "2003": {
+      "id": 2003,
+      "brand": "",
+      "category": "electronics",
+      "name": "شاحن سريع 65W متعدد المنافذ",
+      "price": 3200,
+      "oldPrice": 4000,
+      "cost": 2100,
+      "installment": 0,
+      "stock": 60,
+      "rating": 4.7,
+      "reviews": 143,
+      "colors": [
+        "أبيض"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "القدرة": "65W",
+        "المنافذ": "USB-C × 2 + USB-A",
+        "الحماية": "ضد الحرارة والتيار الزائد"
+      },
+      "description": "يشحن هاتفك وحاسوبك في نفس الوقت.",
+      "images": [
+        "https://placehold.co/600x600/334155/ffffff?text=Fast+Charger"
+      ],
+      "isNew": false,
+      "isHot": false
+    },
+    "3001": {
+      "id": 3001,
+      "brand": "Classic",
+      "category": "fashion",
+      "name": "قميص رجالي قطني",
+      "price": 2800,
+      "oldPrice": 3500,
+      "cost": 1700,
+      "installment": 0,
+      "stock": 35,
+      "rating": 4.2,
+      "reviews": 38,
+      "colors": [
+        "أبيض",
+        "أزرق سماوي",
+        "كحلي"
+      ],
+      "storage": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "optionLabel": "المقاس",
+      "specs": {
+        "الخامة": "قطن 100%",
+        "القصة": "عادية"
+      },
+      "description": "قميص مريح بقماش ناعم يناسب كل المناسبات.",
+      "images": [
+        "https://placehold.co/600x600/1d4ed8/ffffff?text=Cotton+Shirt"
+      ],
+      "isNew": true,
+      "isHot": false
+    },
+    "3002": {
+      "id": 3002,
+      "brand": "Urban",
+      "category": "fashion",
+      "name": "حذاء رياضي خفيف",
+      "price": 5900,
+      "oldPrice": 7200,
+      "cost": 3900,
+      "installment": 0,
+      "stock": 25,
+      "rating": 4.5,
+      "reviews": 72,
+      "colors": [
+        "أسود",
+        "أبيض",
+        "رمادي"
+      ],
+      "storage": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "optionLabel": "المقاس",
+      "specs": {
+        "النعل": "مطاطي مضاد للانزلاق",
+        "الاستخدام": "مشي وجري خفيف"
+      },
+      "description": "حذاء مريح وخفيف الوزن للاستعمال اليومي.",
+      "images": [
+        "https://placehold.co/600x600/b45309/ffffff?text=Sport+Shoes"
+      ],
+      "isNew": false,
+      "isHot": true
+    },
+    "3003": {
+      "id": 3003,
+      "brand": "Elegance",
+      "category": "fashion",
+      "name": "عباءة نسائية أنيقة",
+      "price": 6400,
+      "oldPrice": 7800,
+      "cost": 4200,
+      "installment": 0,
+      "stock": 12,
+      "rating": 4.8,
+      "reviews": 29,
+      "colors": [
+        "أسود",
+        "كحلي"
+      ],
+      "storage": [
+        "S",
+        "M",
+        "L"
+      ],
+      "optionLabel": "المقاس",
+      "specs": {
+        "الخامة": "كريب فاخر",
+        "التطريز": "يدوي"
+      },
+      "description": "عباءة بقصة أنيقة وقماش يتنفس.",
+      "images": [
+        "https://placehold.co/600x600/7e22ce/ffffff?text=Abaya"
+      ],
+      "isNew": true,
+      "isHot": false
+    },
+    "4001": {
+      "id": 4001,
+      "brand": "Tefal",
+      "category": "home",
+      "name": "طقم أواني طهي (8 قطع)",
+      "price": 11500,
+      "oldPrice": 14000,
+      "cost": 8000,
+      "installment": 0,
+      "stock": 15,
+      "rating": 4.6,
+      "reviews": 51,
+      "colors": [],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "المادة": "ألمنيوم غير لاصق",
+        "عدد القطع": "8",
+        "يناسب": "جميع المواقد"
+      },
+      "description": "طقم متين لطهي صحي بدون التصاق.",
+      "images": [
+        "https://placehold.co/600x600/be123c/ffffff?text=Cookware+Set"
+      ],
+      "isNew": false,
+      "isHot": true
+    },
+    "4002": {
+      "id": 4002,
+      "brand": "Philips",
+      "category": "home",
+      "name": "خلاط كهربائي 600W",
+      "price": 7400,
+      "oldPrice": 8900,
+      "cost": 5200,
+      "installment": 0,
+      "stock": 20,
+      "rating": 4.4,
+      "reviews": 66,
+      "colors": [
+        "أبيض"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "القدرة": "600W",
+        "السعة": "1.5 لتر",
+        "السرعات": "2 + نبض"
+      },
+      "description": "يهرس ويخلط بسرعة وبقوة.",
+      "images": [
+        "https://placehold.co/600x600/0369a1/ffffff?text=Blender"
+      ],
+      "isNew": false,
+      "isHot": false
+    },
+    "4003": {
+      "id": 4003,
+      "brand": "HomeLine",
+      "category": "home",
+      "name": "طقم أغطية سرير قطنية",
+      "price": 8900,
+      "oldPrice": 10500,
+      "cost": 6000,
+      "installment": 0,
+      "stock": 18,
+      "rating": 4.5,
+      "reviews": 44,
+      "colors": [
+        "رمادي",
+        "بيج",
+        "أزرق"
+      ],
+      "storage": [
+        "سرير شخصين",
+        "سرير شخص واحد"
+      ],
+      "optionLabel": "الحجم",
+      "specs": {
+        "الخامة": "قطن مصري",
+        "القطع": "4"
+      },
+      "description": "نعومة وراحة لنوم هادئ.",
+      "images": [
+        "https://placehold.co/600x600/a16207/ffffff?text=Bedding+Set"
+      ],
+      "isNew": true,
+      "isHot": false
+    },
+    "5001": {
+      "id": 5001,
+      "brand": "Nivea",
+      "category": "beauty",
+      "name": "كريم مرطب للبشرة",
+      "price": 1200,
+      "oldPrice": 1500,
+      "cost": 700,
+      "installment": 0,
+      "stock": 80,
+      "rating": 4.6,
+      "reviews": 210,
+      "colors": [],
+      "storage": [
+        "100ml",
+        "200ml"
+      ],
+      "optionLabel": "الحجم",
+      "specs": {
+        "النوع": "لجميع أنواع البشرة",
+        "الاستخدام": "يومي"
+      },
+      "description": "ترطيب يدوم 24 ساعة بتركيبة لطيفة.",
+      "images": [
+        "https://placehold.co/600x600/0e7490/ffffff?text=Body+Cream"
+      ],
+      "isNew": false,
+      "isHot": true
+    },
+    "5002": {
+      "id": 5002,
+      "brand": "Arome",
+      "category": "beauty",
+      "name": "عطر شرقي فاخر",
+      "price": 4800,
+      "oldPrice": 6000,
+      "cost": 3000,
+      "installment": 0,
+      "stock": 30,
+      "rating": 4.7,
+      "reviews": 95,
+      "colors": [],
+      "storage": [
+        "50ml",
+        "100ml"
+      ],
+      "optionLabel": "الحجم",
+      "specs": {
+        "النوع": "عطر شرقي",
+        "الثبات": "عالي"
+      },
+      "description": "رائحة دافئة وفاخرة تدوم طويلاً.",
+      "images": [
+        "https://placehold.co/600x600/92400e/ffffff?text=Perfume"
+      ],
+      "isNew": true,
+      "isHot": false
+    },
+    "6001": {
+      "id": 6001,
+      "brand": "FitPro",
+      "category": "sports",
+      "name": "دمبل قابل للتعديل (2×10 كغ)",
+      "price": 9200,
+      "oldPrice": 11000,
+      "cost": 6500,
+      "installment": 0,
+      "stock": 10,
+      "rating": 4.5,
+      "reviews": 33,
+      "colors": [
+        "أسود"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "الوزن": "2×10 كغ",
+        "المادة": "حديد مطلي"
+      },
+      "description": "تمارين منزلية متنوعة بجهاز واحد.",
+      "images": [
+        "https://placehold.co/600x600/065f46/ffffff?text=Dumbbells"
+      ],
+      "isNew": false,
+      "isHot": false
+    },
+    "6002": {
+      "id": 6002,
+      "brand": "FitPro",
+      "category": "sports",
+      "name": "سجادة يوغا مانعة للانزلاق",
+      "price": 1900,
+      "oldPrice": 2400,
+      "cost": 1100,
+      "installment": 0,
+      "stock": 45,
+      "rating": 4.3,
+      "reviews": 58,
+      "colors": [
+        "بنفسجي",
+        "أخضر",
+        "أزرق"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "السمك": "6 ملم",
+        "الطول": "183 سم"
+      },
+      "description": "سجادة مريحة للتمارين والتمدد.",
+      "images": [
+        "https://placehold.co/600x600/047857/ffffff?text=Yoga+Mat"
+      ],
+      "isNew": false,
+      "isHot": false
+    },
+    "7001": {
+      "id": 7001,
+      "brand": "PlayKids",
+      "category": "kids",
+      "name": "مكعبات بناء تعليمية (100 قطعة)",
+      "price": 2600,
+      "oldPrice": 3200,
+      "cost": 1500,
+      "installment": 0,
+      "stock": 28,
+      "rating": 4.8,
+      "reviews": 77,
+      "colors": [
+        "ملون"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "العمر": "3+ سنوات",
+        "القطع": "100"
+      },
+      "description": "تنمّي الذكاء والخيال عند الأطفال.",
+      "images": [
+        "https://placehold.co/600x600/c2410c/ffffff?text=Building+Blocks"
+      ],
+      "isNew": true,
+      "isHot": true
+    },
+    "8001": {
+      "id": 8001,
+      "brand": "",
+      "category": "accessories",
+      "name": "حقيبة ظهر مقاومة للماء",
+      "price": 4300,
+      "oldPrice": 5200,
+      "cost": 2800,
+      "installment": 0,
+      "stock": 22,
+      "rating": 4.4,
+      "reviews": 48,
+      "colors": [
+        "أسود",
+        "رمادي",
+        "كحلي"
+      ],
+      "storage": [],
+      "optionLabel": "",
+      "specs": {
+        "السعة": "25 لتر",
+        "الخامة": "نايلون مقاوم للماء",
+        "جيب لابتوب": "حتى 15.6 بوصة"
+      },
+      "description": "عملية للدراسة والعمل والسفر.",
+      "images": [
+        "https://placehold.co/600x600/1f2937/ffffff?text=Backpack"
+      ],
+      "isNew": false,
+      "isHot": false
+    }
+  }
+}
